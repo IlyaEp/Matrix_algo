@@ -1,0 +1,7 @@
+s s#REGEX#2 s#REGEX#3 A#CNF# 
+A B 
+s -> A#CNF# s#REGEX#2 
+s#REGEX#2 -> B 
+s#REGEX#2 -> s s#REGEX#3 
+s#REGEX#3 -> B 
+A#CNF# -> A 

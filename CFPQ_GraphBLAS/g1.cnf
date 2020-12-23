@@ -1,0 +1,12 @@
+s s#REGEX#4 TR#CNF# SCOR#CNF# s#REGEX#6 s#REGEX#3 s#REGEX#5 
+SCO SCOR T TR 
+s#REGEX#3 -> s s#REGEX#5 
+s -> TR#CNF# s#REGEX#6 
+s#REGEX#4 -> T 
+s#REGEX#3 -> SCO 
+SCOR#CNF# -> SCOR 
+s -> SCOR#CNF# s#REGEX#3 
+s#REGEX#5 -> SCO 
+TR#CNF# -> TR 
+s#REGEX#6 -> T 
+s#REGEX#6 -> s s#REGEX#4 

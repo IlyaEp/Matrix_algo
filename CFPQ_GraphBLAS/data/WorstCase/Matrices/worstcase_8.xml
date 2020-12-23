@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://yacc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="id-7">
+    <ns1:B rdf:nodeID="id-4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-4">
+    <ns1:B rdf:nodeID="id-5"/>
+    <ns1:A rdf:nodeID="id-0"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-3">
+    <ns1:A rdf:nodeID="id-4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-5">
+    <ns1:B rdf:nodeID="id-6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-0">
+    <ns1:A rdf:nodeID="id-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-2">
+    <ns1:A rdf:nodeID="id-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-6">
+    <ns1:B rdf:nodeID="id-7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-1">
+    <ns1:A rdf:nodeID="id-2"/>
+  </rdf:Description>
+</rdf:RDF>

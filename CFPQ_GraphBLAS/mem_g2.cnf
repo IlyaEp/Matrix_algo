@@ -1,0 +1,31 @@
+s A_R#CNF# v#REGEX#7 s#REGEX#4 v#REGEX#6 v#REGEX#8 v#REGEX#5 A#CNF# v s#REGEX#3 D_R#CNF# 
+D A D_R A_R 
+v#REGEX#8 -> D_R#CNF# s#REGEX#3 
+v#REGEX#5 -> D_R#CNF# s#REGEX#3 
+v#REGEX#6 -> A#CNF# v#REGEX#5 
+v -> A#CNF# v#REGEX#5 
+v#REGEX#7 -> A_R#CNF# v#REGEX#8 
+v -> s v#REGEX#7 
+v#REGEX#5 -> s v#REGEX#6 
+v#REGEX#8 -> A_R#CNF# v#REGEX#8 
+s#REGEX#4 -> D 
+D_R#CNF# -> D_R 
+v#REGEX#6 -> A 
+v -> A 
+v#REGEX#7 -> A_R 
+v#REGEX#7 -> A#CNF# v#REGEX#5 
+v#REGEX#8 -> A_R 
+v -> D_R#CNF# s#REGEX#3 
+v#REGEX#8 -> A#CNF# v#REGEX#5 
+v#REGEX#5 -> A#CNF# v#REGEX#5 
+v#REGEX#8 -> s v#REGEX#7 
+A#CNF# -> A 
+v -> A_R#CNF# v#REGEX#8 
+s#REGEX#3 -> v s#REGEX#4 
+v#REGEX#7 -> A 
+v#REGEX#8 -> A 
+v#REGEX#5 -> A 
+s#REGEX#3 -> D 
+A_R#CNF# -> A_R 
+s -> D_R#CNF# s#REGEX#3 
+v -> A_R 

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://yacc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="id-38">
+    <ns1:B rdf:nodeID="id-39"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-31">
+    <ns1:A rdf:nodeID="id-32"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-0">
+    <ns1:A rdf:nodeID="id-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-35">
+    <ns1:B rdf:nodeID="id-36"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-30">
+    <ns1:A rdf:nodeID="id-31"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-58">
+    <ns1:B rdf:nodeID="id-59"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-55">
+    <ns1:B rdf:nodeID="id-56"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-22">
+    <ns1:A rdf:nodeID="id-23"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-48">
+    <ns1:B rdf:nodeID="id-49"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-4">
+    <ns1:A rdf:nodeID="id-5"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-47">
+    <ns1:B rdf:nodeID="id-48"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-28">
+    <ns1:A rdf:nodeID="id-29"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-11">
+    <ns1:A rdf:nodeID="id-12"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-16">
+    <ns1:A rdf:nodeID="id-17"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-60">
+    <ns1:B rdf:nodeID="id-61"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-57">
+    <ns1:B rdf:nodeID="id-58"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-33">
+    <ns1:B rdf:nodeID="id-34"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-54">
+    <ns1:B rdf:nodeID="id-55"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-40">
+    <ns1:B rdf:nodeID="id-41"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-14">
+    <ns1:A rdf:nodeID="id-15"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-37">
+    <ns1:B rdf:nodeID="id-38"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-63">
+    <ns1:B rdf:nodeID="id-32"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-61">
+    <ns1:B rdf:nodeID="id-62"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-20">
+    <ns1:A rdf:nodeID="id-21"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-42">
+    <ns1:B rdf:nodeID="id-43"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-17">
+    <ns1:A rdf:nodeID="id-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-43">
+    <ns1:B rdf:nodeID="id-44"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-51">
+    <ns1:B rdf:nodeID="id-52"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-41">
+    <ns1:B rdf:nodeID="id-42"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-12">
+    <ns1:A rdf:nodeID="id-13"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-9">
+    <ns1:A rdf:nodeID="id-10"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-21">
+    <ns1:A rdf:nodeID="id-22"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-19">
+    <ns1:A rdf:nodeID="id-20"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-46">
+    <ns1:B rdf:nodeID="id-47"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-44">
+    <ns1:B rdf:nodeID="id-45"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-34">
+    <ns1:B rdf:nodeID="id-35"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-62">
+    <ns1:B rdf:nodeID="id-63"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-53">
+    <ns1:B rdf:nodeID="id-54"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-24">
+    <ns1:A rdf:nodeID="id-25"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-27">
+    <ns1:A rdf:nodeID="id-28"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-2">
+    <ns1:A rdf:nodeID="id-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-59">
+    <ns1:B rdf:nodeID="id-60"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-15">
+    <ns1:A rdf:nodeID="id-16"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-7">
+    <ns1:A rdf:nodeID="id-8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-32">
+    <ns1:A rdf:nodeID="id-0"/>
+    <ns1:B rdf:nodeID="id-33"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-3">
+    <ns1:A rdf:nodeID="id-4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-10">
+    <ns1:A rdf:nodeID="id-11"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-23">
+    <ns1:A rdf:nodeID="id-24"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-29">
+    <ns1:A rdf:nodeID="id-30"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-49">
+    <ns1:B rdf:nodeID="id-50"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-1">
+    <ns1:A rdf:nodeID="id-2"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-8">
+    <ns1:A rdf:nodeID="id-9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-6">
+    <ns1:A rdf:nodeID="id-7"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-26">
+    <ns1:A rdf:nodeID="id-27"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-45">
+    <ns1:B rdf:nodeID="id-46"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-56">
+    <ns1:B rdf:nodeID="id-57"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-39">
+    <ns1:B rdf:nodeID="id-40"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-52">
+    <ns1:B rdf:nodeID="id-53"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-13">
+    <ns1:A rdf:nodeID="id-14"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-50">
+    <ns1:B rdf:nodeID="id-51"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-18">
+    <ns1:A rdf:nodeID="id-19"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-25">
+    <ns1:A rdf:nodeID="id-26"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-5">
+    <ns1:A rdf:nodeID="id-6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="id-36">
+    <ns1:B rdf:nodeID="id-37"/>
+  </rdf:Description>
+</rdf:RDF>

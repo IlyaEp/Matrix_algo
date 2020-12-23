@@ -1,0 +1,7 @@
+s SCOR#CNF# s#REGEX#1 s#REGEX#2 
+SCOR SCO 
+s -> SCOR#CNF# s#REGEX#2 
+SCOR#CNF# -> SCOR 
+s#REGEX#2 -> s s#REGEX#1 
+s#REGEX#1 -> SCO 
+s -> SCO 
